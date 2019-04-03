@@ -1,0 +1,14 @@
+D:\College\Class of Web\420 - Y22 Server Side Script\project\getsmart>cd .\localfirst
+The system cannot find the path specified.
+
+D:\College\Class of Web\420 - Y22 Server Side Script\project\getsmart>cd \project\localfirst
+The system cannot find the path specified.
+
+D:\College\Class of Web\420 - Y22 Server Side Script\project\getsmart>cd ..
+
+D:\College\Class of Web\420 - Y22 Server Side Script\project>cd localfirst
+
+D:\College\Class of Web\420 - Y22 Server Side Script\project\localfirst>git init
+Initialized empty Git repository in D:/College/Class of Web/420 - Y22 Server Side Script/project/localfirst/.git/
+
+D:\College\Class of Web\420 - Y22 Server Side Script\project\localfirst>
